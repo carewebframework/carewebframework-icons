@@ -9,6 +9,6 @@
 	
 	<modules>
 		<module>org.carewebframework.icons.famfamfam</module>
-		<module>org.carewebframework.icons.openiconlibrary</module>
+		<module>org.carewebframework.icons.oil-parent</module>
 	</modules>
 </project>

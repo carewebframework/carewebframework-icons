@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>org.carewebframework</groupId>
+		<artifactId>org.carewebframework.icons-parent</artifactId>
+		<version>3.1.0-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>org.carewebframework.icons.oil-parent</artifactId>
+	<name>CareWeb Framework Open Icon Library Aggregator</name>
+	<packaging>pom</packaging>
+	
+	<licenses>
+		<license>
+			<name>
+				Multiply Licensed
+			</name>
+			<comments>
+				see LICENSE.TXT
+			</comments>
+		</license>
+	</licenses>
+	
+	<modules>
+		<module>org.carewebframework.icons.oil.actions</module>
+		<module>org.carewebframework.icons.oil.animations</module>
+		<module>org.carewebframework.icons.oil.apps</module>
+		<module>org.carewebframework.icons.oil.categories</module>
+		<module>org.carewebframework.icons.oil.devices</module>
+		<module>org.carewebframework.icons.oil.emblems</module>
+		<module>org.carewebframework.icons.oil.emotes</module>
+		<module>org.carewebframework.icons.oil.intl</module>
+		<module>org.carewebframework.icons.oil.mimetypes</module>
+		<module>org.carewebframework.icons.oil.others</module>
+		<module>org.carewebframework.icons.oil.places</module>
+		<module>org.carewebframework.icons.oil.status</module>
+	</modules>
+	
+</project>
