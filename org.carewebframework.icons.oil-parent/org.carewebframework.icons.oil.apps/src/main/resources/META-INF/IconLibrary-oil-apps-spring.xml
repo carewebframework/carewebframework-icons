@@ -7,7 +7,7 @@
 
 	<beans profile="root">
 
-		<bean class="org.carewebframework.ui.icons.IconLibraryBase">
+		<bean class="org.carewebframework.ui.icon.IconLibraryBase">
 			<constructor-arg value="apps" />
 			<constructor-arg value="/org/carewebframework/icons/oil/" />
 			<constructor-arg value="16x16,22x22,24x24,32x32,48x48,64x64,128x128" />
